@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/sonajipawar/astrakv/storage/kvstore"
-	"github.com/sonajipawar/astrakv/storage/wal"
+	"github.com/sonaji94/ASTRAKV/storage/kvstore"
+	"github.com/sonaji94/ASTRAKV/storage/wal"
 )
 
 const version = "0.3.0"
